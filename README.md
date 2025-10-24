@@ -13,5 +13,5 @@
 
 1. 克隆此仓库：
    ```bash
-   git clone <你的仓库地址>
+   git clone https://github.com/shadawwuegidua/z-ai-novel-writer.git
    cd z-ai-novel-writer
